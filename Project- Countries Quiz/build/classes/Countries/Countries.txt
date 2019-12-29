@@ -1,0 +1,9 @@
+China,1379.0,Beijing,21.5,3705000,Asia,Mandarin Chinese,Yangtze,China.png
+Germany,82.67,Berlin,3.5,137983,Europe,German,Rhine,Germany.png
+Indonesia,261.1,Jakarta,9.6,735400,Asia,Indonesian,Kapuas,Indonesia.png
+Japan,127.0,Tokyo,13.6,145932,Asia,Japanese,Shinano,Japan.png
+Mexico,127.5,Mexico City,8.9,758400,North America,Spanish,Rio Grande,Mexico.png
+Russia,144.3,Moscow,11.9,6602000,Europe and Asia,Russian,Yenisei,Russia.png
+South Korea,51.3,Seoul,10.4,38691,Asia,Korean,Nakdong,South Korea.png
+Thailand,68.86,Bangkok,8.3,198117,Asia,Thai,Chao Phraya,Thailand.png
+Uganda,41.49,Kampala,1.5,93065,Africa,English and Swahili,Nile,Uganda.png
